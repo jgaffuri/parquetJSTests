@@ -8,8 +8,8 @@ To try:
 - ParquetJS-lite - https://github.com/ZJONSSON/parquetjs#reading-data-from-a-url
 - ParquetJS - https://github.com/ironSource/parquetjs#usage-reading-files
 - Parquet-wasm - https://github.com/kylebarron/parquet-wasm
-- Parquets - https://www.npmjs.com/package/parquetjs-decimal
-- Parquets ini - https://www.npmjs.com/package/parquets
+- Parquet decimal - https://www.npmjs.com/package/parquetjs-decimal
+- Parquets - https://www.npmjs.com/package/parquets
 - DuckDB - https://www.npmjs.com/package/duckdb
 - DuckDB-wasm - https://www.npmjs.com/package/@duckdb/duckdb-wasm - https://duckdb.org/2021/10/29/duckdb-wasm.html
 - node-parquet - https://www.npmjs.com/package/node-parquet
